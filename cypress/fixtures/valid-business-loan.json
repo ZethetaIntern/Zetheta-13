@@ -1,0 +1,49 @@
+{
+  "step1": {
+    "loanType": "business",
+    "loanAmount": 2500000,
+    "loanTenure": 36,
+    "loanPurpose": "Working Capital Requirement"
+  },
+  "step2": {
+    "fullName": "Vikram Malhotra",
+    "dateOfBirth": "1985-11-12",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "fatherName": "Anand Malhotra",
+    "motherName": "Rekha Malhotra",
+    "email": "vikram@malhotratech.com",
+    "mobileNumber": "9988776655"
+  },
+  "step3": {
+    "panNumber": "ABCCE1234F",
+    "aadhaarNumber": "367598342159",
+    "aadhaarConsent": true
+  },
+  "step4": {
+    "addressLine1": "Unit 501, Business Park, Andheri East",
+    "pinCode": "400069",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "residenceType": "Owned",
+    "yearsAtCurrentAddress": 4,
+    "sameAsPermanent": true
+  },
+  "step5": {
+    "employmentType": "business_owner",
+    "businessName": "Malhotra Precision Engineering Pvt Ltd",
+    "businessType": "Private Limited",
+    "annualTurnover": 8000000,
+    "yearsInBusiness": 6,
+    "gstNumber": "27ABCCE1234F1Z5",
+    "monthlyIncome": 250000,
+    "officeAddress": "Plot 14, MIDC Industrial Area, Mumbai"
+  },
+  "step6": {
+    "coApplicantName": "Sneha Malhotra",
+    "coApplicantRelationship": "Business Partner",
+    "coApplicantPAN": "AAAPP1234F",
+    "coApplicantIncome": 120000,
+    "coApplicantConsent": true
+  }
+}

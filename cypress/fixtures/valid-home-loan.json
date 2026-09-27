@@ -1,0 +1,46 @@
+{
+  "step1": {
+    "loanType": "home",
+    "loanAmount": 4500000,
+    "loanTenure": 120,
+    "loanPurpose": "Purchase of Ready-to-Move Flat/House"
+  },
+  "step2": {
+    "fullName": "Amit Verma",
+    "dateOfBirth": "1990-08-20",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "fatherName": "Ramesh Verma",
+    "motherName": "Kiran Verma",
+    "email": "amit.verma@example.com",
+    "mobileNumber": "9811223344"
+  },
+  "step3": {
+    "panNumber": "ABCPE1234F",
+    "aadhaarNumber": "367598342159",
+    "aadhaarConsent": true
+  },
+  "step4": {
+    "addressLine1": "B-12, Green Park Extension",
+    "pinCode": "110016",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "residenceType": "Owned",
+    "yearsAtCurrentAddress": 5,
+    "sameAsPermanent": true
+  },
+  "step5": {
+    "employmentType": "salaried",
+    "companyName": "Infosys Limited",
+    "designation": "Principal Consultant",
+    "monthlyIncome": 160000,
+    "yearsOfExperience": 10
+  },
+  "step6": {
+    "coApplicantName": "Pooja Verma",
+    "coApplicantRelationship": "Spouse",
+    "coApplicantPAN": "AAAPP1234F",
+    "coApplicantIncome": 75000,
+    "coApplicantConsent": true
+  }
+}

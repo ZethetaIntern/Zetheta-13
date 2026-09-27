@@ -1,0 +1,43 @@
+{
+  "step1": {
+    "loanType": "personal",
+    "loanAmount": 400000,
+    "loanTenure": 24,
+    "loanPurpose": "Debt Consolidation",
+    "referralCode": "LEND2026"
+  },
+  "step2": {
+    "fullName": "Rajesh Kumar Sharma",
+    "dateOfBirth": "1994-05-15",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "fatherName": "Suresh Chandra Sharma",
+    "motherName": "Sunita Sharma",
+    "email": "rajesh.sharma@example.com",
+    "mobileNumber": "9876543210",
+    "alternateMobile": "9876543211"
+  },
+  "step3": {
+    "panNumber": "ABCPE1234F",
+    "aadhaarNumber": "367598342159",
+    "aadhaarConsent": true,
+    "voterId": "ABC1234567"
+  },
+  "step4": {
+    "addressLine1": "Flat 402, Sunshine Apartments, MG Road",
+    "addressLine2": "Near Metro Station",
+    "pinCode": "110001",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "residenceType": "Owned",
+    "yearsAtCurrentAddress": 3,
+    "sameAsPermanent": true
+  },
+  "step5": {
+    "employmentType": "salaried",
+    "companyName": "Tata Consultancy Services (TCS)",
+    "designation": "Lead System Engineer",
+    "monthlyIncome": 85000,
+    "yearsOfExperience": 6
+  }
+}
